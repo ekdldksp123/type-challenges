@@ -1,2 +1,6 @@
 # type-challenges
-type-challenges 시작
+
+
+### 2023.02.18
+* Pick
+* Readonly
